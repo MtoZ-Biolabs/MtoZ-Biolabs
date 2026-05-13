@@ -1,3 +1,10 @@
+---
+layout: post
+title: "TMT Quantitative Proteomics Analysis Service"
+date: 2026-05-12
+author: "MtoZ Biolabs"
+---
+
 # TMT Quantitative Proteomics Analysis Service
 
 Tandem mass tags (TMT) technology is a tandem mass spectrometry labeling technology developed by Thermo Fisher Company, mainly used for the identification and quantification of proteins in different samples. Each TMT labeling reagent consists of an NHS-ester group with amine-reactive activity, a mass normalization group, and an MS/MS reporter group. The isotope label of each labeling reagent has the same precursor mass. After the peptide segments are labeled by the reagent, they can react with the N-terminal and primary amine groups of the amino acid side chains and then be detected through the reporter group.
