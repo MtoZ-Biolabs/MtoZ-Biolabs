@@ -22,7 +22,7 @@ MtoZ Biolabs uses Thermo Fisher's Orbitrap Fusion Lumos mass spectrometry platfo
 The general process of TMT is illustrated below. Different protein samples are denatured, reduced, alkylated, and digested into peptides. These peptides are then labeled with a TMT kit and merged into a single sample. The merged sample is separated into fractions using high-performance liquid chromatography (HPLC), and the fractions are then grouped into 10 samples. After purification, each sample is analyzed by HPLC-MS to gain protein qualitative and quantitative data.
 
 <div style="text-align: center;">
-  <img src="/images/tmt-quantitative-proteomics-analysis-service1.webp" alt="tmt-quantitative-proteomics-analysis-service-1" style="max-width:100%;">
+  <img src="/MtoZ-Biolabs/images/tmt-quantitative-proteomics-analysis-service1.webp" alt="tmt-quantitative-proteomics-analysis-service-1" style="max-width:100%;">
 </div>
 
 <p style="text-align:center;">
@@ -47,7 +47,7 @@ The TMT approach is applicable across all species, without any species-specific 
 ## Sample Submission Requirements
 
 <div style="text-align: center;">
-  <img src="/images/tmt-quantitative-proteomics-analysis-service2.webp" alt="tmt-quantitative-proteomics-analysis-service-2" style="max-width:100%;">
+  <img src="/MtoZ-Biolabs/images/tmt-quantitative-proteomics-analysis-service2.webp" alt="tmt-quantitative-proteomics-analysis-service-2" style="max-width:100%;">
 </div>
 
 MtoZ Biolabs can perform TMT proteomics analysis on samples in both liquid and solid states. Solid samples can be transported with ice packs; liquid samples can be vacuum-dried or freeze-dried and transported with ice packs or transported with dry ice.
