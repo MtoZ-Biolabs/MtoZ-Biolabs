@@ -5,13 +5,12 @@ date: 2026-05-14
 author: "MtoZ Biolabs"
 ---
 
-# **Label-Free Quantitative Proteomics Service, MS Based**
 
 Label-free analysis is a powerful technique for identifying and quantifying relative changes in complex protein samples. In this method, samples are run individually and identified by MS/MS information. Relative quantitation of different samples is then analyzed by aligning chromatographic peak areas of precursor ions between various runs. The most distinctive advantage is that it quantifies proteins without any use of labels, and can analyze unlimited number of samples. Since Label-free is relatively simple and easy compared to other proteomics techniques, it has been widely used for proteomics study and biomarker discovery.
 
 ---
 
-## **Analysis Workflow**
+## Analysis Workflow
 
 <div style="text-align: center;">
   <img src="/MtoZ-Biolabs/images/label-free1.webp" alt="label-free1" style="max-width:100%;">
@@ -19,7 +18,7 @@ Label-free analysis is a powerful technique for identifying and quantifying rela
 
 ---
 
-## **Our Advantages**
+## Our Advantages
 
 1. Does not require expensive isotope labeling reagents, resulting in a shorter experimental duration.  
 2. Enables comparative analysis of differential protein expression across different species.  
@@ -28,7 +27,7 @@ Label-free analysis is a powerful technique for identifying and quantifying rela
 
 ---
 
-## **Sample Submission Requirements**
+## Sample Submission Requirements
 
 <div style="text-align: center;">
   <img src="/MtoZ-Biolabs/images/label-free2.webp" alt="label-free2" style="max-width:100%;">
@@ -38,7 +37,7 @@ Note: For Co-IP protein samples, only 2-5 ug is required. During sample elution,
 
 ---
 
-## **Bioinformatics Analysis**
+## Bioinformatics Analysis
 
 <div style="text-align: center;">
   <img src="/MtoZ-Biolabs/images/label-free3.webp" alt="label-free3" style="max-width:100%;">
@@ -46,17 +45,17 @@ Note: For Co-IP protein samples, only 2-5 ug is required. During sample elution,
 
 ---
 
-## **Deliverables**
+## Deliverables
 
-### **1. Experiment Procedures**
+### 1. Experiment Procedures
 
-### **2. Parameters of Liquid Chromatography and Mass Spectrometer**
+### 2. Parameters of Liquid Chromatography and Mass Spectrometer
 
-### **3. MS Raw Data Files**
+### 3. MS Raw Data Files
 
-### **4. Peptide Identifications and Intensities**
+### 4. Peptide Identifications and Intensities
 
-### **5. Protein Identifications and Intensities**
+### 5. Protein Identifications and Intensities
 
-### **6. Bioinformatics Analysis**
+### 6. Bioinformatics Analysis
 
