@@ -13,7 +13,7 @@ TMT technology can use up to 18 stable isotope tags, enabling the simultaneous c
 
 TMT quantitative analysis is performed by measuring the intensity of the fragment reporter group ions released in tandem mass spectrometry mode (MS2) during peptide fragmentation. Precursor ions are selected for fragmentation in full scan mode (MS1), and the ion selection step reduces noise levels, providing favorable conditions for subsequent analysis steps. Ideally, only one selected precursor ion undergoes fragmentation during the precursor ion fragmentation process. However, in practice, other precursor ions are usually captured within the specified m/z window and fragmented together with the selected precursor.
  
-MtoZ Biolabs uses Thermo Fisher's Orbitrap Fusion Lumos mass spectrometry platform combined with nano-liquid chromatography to provide TMT Quantitative Proteomics Analysis Service. The Orbitrap Fusion Lumos mass spectrometer is the highest resolution and sensitivity mass spectrometer currently available, ensuring the sensitivity for identifying low-abundance peptide fragments. Additionally, it employs a combination of HCD and ETD modes during peptide fragmentation, ensuring the integrity of peptide fragments.
+MtoZ Biolabs performs TMT quantitative proteomics analysis using Thermo Fisher's Orbitrap Fusion Lumos mass spectrometry platform combined with nano-liquid chromatography. The Orbitrap Fusion Lumos mass spectrometer is a high-resolution and high-sensitivity mass spectrometry platform, ensuring the sensitivity for identifying low-abundance peptide fragments. Additionally, it employs a combination of HCD and ETD modes during peptide fragmentation, ensuring the integrity of peptide fragments.
 
 ---
 
@@ -31,7 +31,7 @@ Figure 1. Workflow for Relative Quantification Using 10 plex TMT
 
 ---
 
-## Service Advantages
+## Our Advantages
 
 ### 1. High Throughput with No Sample Number Limitations
 A single run can quantify proteins in up to 18 samples simultaneously. For studies involving more than 18 samples, internal standards can be used to align data across multiple runs, thus enabling comprehensive comparisons without restrictions on sample numbers.
@@ -50,6 +50,5 @@ The TMT approach is applicable across all species, without any species-specific 
   <img src="/MtoZ-Biolabs/images/tmt-quantitative-proteomics-analysis-service-2.webp" alt="tmt-quantitative-proteomics-analysis-service-2" style="max-width:100%;">
 </div>
 
-MtoZ Biolabs can perform TMT proteomics analysis on samples in both liquid and solid states. Solid samples can be transported with ice packs; liquid samples can be vacuum-dried or freeze-dried and transported with ice packs or transported with dry ice.
+TMT proteomics analysis at MtoZ Biolabs can be performed on samples in both liquid and solid states. Solid samples can be transported with ice packs; liquid samples can be vacuum-dried or freeze-dried and transported with ice packs or transported with dry ice.
 
-MtoZ Biolabs, an integrated chromatography and mass spectrometry (MS) services provider.
