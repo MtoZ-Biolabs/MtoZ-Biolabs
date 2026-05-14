@@ -60,4 +60,3 @@ Note: For Co-IP protein samples, only 2-5 ug is required. During sample elution,
 
 ### **6. Bioinformatics Analysis**
 
-MtoZ Biolabs, an integrated chromatography and mass spectrometry (MS) services provider.
