@@ -7,22 +7,23 @@ tags: [DIA, data-independent acquisition, proteomics, mass spectrometry, phospho
 excerpt: "DIA MS (Data-Independent Acquisition Mass Spectrometry)-Based Quantitative Service utilizes next-generation proteomics technology to enable comprehensive, reproducible, and high-throughput protein quantification. "
 ---
 
-# DIA MS (Data-Independent Acquisition Mass Spectrometry)-Based Quantitative Service
 
 DIA MS (Data-Independent Acquisition Mass Spectrometry)-Based Quantitative Service utilizes next-generation proteomics technology to enable comprehensive, reproducible, and high-throughput protein quantification. Unlike Data-Dependent Acquisition (DDA), which stochastically selects precursor ions for fragmentation, DIA systematically fragments all ions within a given m/z range, ensuring consistent and deep proteome coverage across multiple conditions. The DIA-MS-based quantitative method enhances quantification accuracy, and enables high-throughput, large-scale studies in biomedical and clinical research.
 
 <div style="text-align:center;">
   <img src="/MtoZ-Biolabs/images/dia-ms-based-quantitative-service1.webp" alt="dia-ms-based-quantitative-service1" style="max-width:100%;">
 </div>
+ 
 
 <div style="text-align:right;">
   <i>Ryu, J. et al. Molecules. 2021.</i>
 </div>
 
+ 
 <div style="text-align:center; font-weight:bold;">
   Figure 1. Principles of Data-Dependent Acquisition (DDA) and Data-Independent Acquisition (DIA) in Untargeted Quantitative Proteomics
 </div>
-
+ 
 In phosphoproteomics, precise quantification of phosphorylation events is essential for understanding cell signaling, kinase activity, and disease mechanisms. DIA-MS outperforms DDA-MS by detecting low-abundance phosphorylated peptides with higher accuracy and reproducibility. MtoZ Biolabs offers a DIA MS-Based Quantitative Service that integrates optimized phosphopeptide enrichment, high-resolution LC-MS/MS, and advanced bioinformatics to deliver reliable phosphorylation site quantification. Whether investigating kinase-substrate interactions, drug responses, or phosphorylation-based biomarkers, the DIA MS-Based Quantitative Service supports high-resolution and scalable phosphoproteomic analysis.
 
 # Analysis Workflow
@@ -45,7 +46,7 @@ In phosphoproteomics, precise quantification of phosphorylation events is essent
   <i>Lancaster, N. M. et al. Nat Commun. 2024.</i>
 </div>
 
-<div style="text-align:center; font-style:italic;">
+<div style="text-align:center; font-weight:bold;">
   Figure 2. Workflow of DIA MS (Data-Independent Acquisition Mass Spectrometry)-Based Quantitative Service
 </div>
 
@@ -60,27 +61,27 @@ In phosphoproteomics, precise quantification of phosphorylation events is essent
 
 # Applications
 
-## 1. Biomarker Discovery and Validation
+1. Biomarker Discovery and Validation
 
 DIA MS enables precise quantification of phosphorylation-based biomarkers, facilitating early disease detection, prognosis, and patient stratification.
 
 
-## 2. Tumor Subtype Classification
+2. Tumor Subtype Classification
 
 By profiling phosphorylation signatures across tumor samples, DIA MS-Based Quantitative Service helps classify tumor subtypes, guiding personalized oncology treatments.
 
 
-## 3. Drug Mechanism and Response Studies
+3. Drug Mechanism and Response Studies
 
 DIA MS quantifies phosphorylation changes in drug-treated samples, providing insights into kinase inhibitor efficacy, off-target effects, and resistance mechanisms. This data-driven approach supports drug development by monitoring dynamic phosphorylation alterations in response to targeted therapies.
 
 
-## 4. Personalized Medicine and Treatment Optimization
+4. Personalized Medicine and Treatment Optimization
 
 DIA MS-Based Quantitative Service provides quantitative phosphorylation profiling for individualized treatment strategies, enabling clinicians to tailor targeted therapies based on a patient’s unique phosphoproteomic signature. It aids in treatment monitoring and response prediction to improve clinical outcomes.
 
 
-## 5. Comparative Studies in Agriculture and Forestry
+5. Comparative Studies in Agriculture and Forestry
 
 DIA MS-Based Quantitative Service enables researchers to systematically analyze protein expression patterns in crops, trees, and other plant species. By leveraging DIA technology, researchers can generate large-scale proteomic datasets to study stress resistance, trait improvement, and genetic adaptation, advancing sustainable agriculture and forestry management.
  
