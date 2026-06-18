@@ -7,7 +7,6 @@ tags: [PhIP-Seq]
 excerpt: "Phage immunoprecipitation sequencing (PhIP-Seq) is a high-throughput serological approach used to profile antibody responses against large-scale antigen libraries."
 ---
 
-# PhIP-Seq: High-Throughput Serology for Immune Response Analysis
 Phage immunoprecipitation sequencing (PhIP-Seq) is a high-throughput serological approach used to profile antibody responses against large-scale antigen libraries. By combining phage-displayed peptide libraries, antibody-mediated enrichment, and next-generation sequencing, PhIP-Seq enables systematic analysis of antibody recognition patterns across thousands to millions of peptide antigens in a single experiment.
 
 <p style="text-align:center;">
@@ -24,15 +23,15 @@ The basic workflow of PhIP-Seq begins with the construction or selection of a ph
 
 # Technical Principles
 
-## 1. Library Construction
+### 1. Library Construction
 
 For a defined set of proteins, a rationally designed and programmable phage-displayed peptide library with broad peptide-level coverage is constructed.
 
-## 2. Antibody Screening
+### 2. Antibody Screening
 
 Antibody-containing samples, such as serum, plasma, cerebrospinal fluid, or other antibody-containing biofluid samples after feasibility evaluation, are co-incubated with the phage-displayed antigen library. Antibody-bound phage particles carrying displayed antigen peptides are then enriched by immunoprecipitation.
 
-## 3. Data Analysis
+### 3. Data Analysis
 
 The enriched phages are analyzed by high-throughput sequencing to identify enriched peptides and infer candidate protein antigens associated with antibody binding in each sample.
 
